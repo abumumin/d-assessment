@@ -1,0 +1,30 @@
+{
+  "usernameField": "input#user-name",
+  "userName": "standard_user",
+  "passwordField":"input#password",
+  "password": "secret_sauce",
+  "LoginBotton":"input#login-button",
+"title": ".title[data-test='title']",
+  "filterField": ".product_sort_container",
+  "ztoa": "za",
+  "highTolow": "hilo",
+
+  "addToCartBotton": "button#add-to-cart-sauce-labs-backpack",
+  "shoppingCartbadge": ".shopping_cart_badge",  
+  "removeBotton": "button#remove-sauce-labs-backpack",
+  "contShoppingBotton": "button#continue-shopping",
+  "addToCartBotton1": "button#add-to-cart-sauce-labs-backpack",
+  "shoppingCartbadge1": ".shopping_cart_badge",  
+
+  "checkOutBotton": "button#checkout",
+  "firstNameField": "input#first-name",
+  "firstNameText": "Mumin",
+  "lastNameField": "input#last-name",
+  "lastNameText": "Abubakar",
+  "postalCodeField": "input#postal-code", 
+  "postalCode": 22314,
+  "continueBotton": "input#continue",
+  "finishBotton": "button#finish",
+  "burgerMenuBotton": "button#react-burger-menu-btn",
+  "logOutBotton": "a#logout_sidebar_link"
+}

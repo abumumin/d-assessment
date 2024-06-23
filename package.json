@@ -1,0 +1,25 @@
+{
+<<<<<<< HEAD
+  "name": "d-assessment",
+=======
+  "name": "assessment",
+>>>>>>> ab632936a205b7fbed197e475f964946836aa5d6
+  "version": "1.0.0",
+  "description": "Web UI Automation Assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Assessment",
+    "Test"
+  ],
+  "author": "Mumin Abubakar",
+  "license": "ISC",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^20.0.5",
+    "@cypress/browserify-preprocessor": "^3.0.2",
+    "cypress": "^13.9.0",
+    "typescript": "^5.4.5"
+  }
+}
